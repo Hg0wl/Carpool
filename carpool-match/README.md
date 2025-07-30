@@ -7,6 +7,8 @@ First, run the development server:
 ```bash
 npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
 
-## Prototype Carpool Match app
-Allows the user to accept or reject shown potential carpool matches
+### Prototype Carpool Match App
+Allows users to accept or reject potential carpool matches, based on employer, start and end location, and start and end distances.
+
